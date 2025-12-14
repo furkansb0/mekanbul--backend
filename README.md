@@ -1,1 +1,2 @@
-[Vercel Bağlantısı](https://https://mekanbul-backend-ivory.vercel.app/)
+[Vercel Bağlantısı](https://mekanbul-backend-ivory.vercel.app)
+
